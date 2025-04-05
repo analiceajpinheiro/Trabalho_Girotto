@@ -18,8 +18,8 @@ O projeto consiste na criação de dashboards para aprimorar os conhecimentos na
 - Stremlit
 
 ## Participantes
-Rodrigo Marques<b>
-Analice Johnston
+<b>Rodrigo Marques</b>
+<b>Analice Johnston</b>
 
 ## 📄 Licença
 
