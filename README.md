@@ -10,11 +10,14 @@
 
 ## 🔭 Visão Geral
 
-O projeto consiste na criação de dashboards para aprimorar os conhecimentos nas áreas de estática e probabilidade e data science. O arquivo usado para a criação do dashboard nos ajuda a analisar as Trends de mercado Norte Americano, nos dando acesso a dados que nos ajudam a saber dados importantes, como, por exemplo, o nível de satisfação dos clientes.
+Este projeto tem como objetivo a criação de dashboards interativos para fortalecer os conhecimentos nas áreas de estatística, probabilidade e ciência de dados. Utilizamos um conjunto de dados do mercado norte-americano que permite identificar tendências de mercado (market trends) e analisar métricas essenciais, como o nível de satisfação dos clientes, entre outras variáveis relevantes.
 
 ## 💻 Tecnologias
 
 - Python
+- Plotly
+- Pandas
+- Numpy
 - Stremlit
 
 ## Participantes
