@@ -18,7 +18,7 @@ Este projeto tem como objetivo a criação de dashboards interativos para fortal
 - Plotly
 - Pandas
 - Numpy
-- Stremlit
+- Streamlit
 
 ## Participantes
 <b>Rodrigo Marques</b> <br>
