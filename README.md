@@ -24,11 +24,3 @@ Este projeto tem como objetivo a criação de dashboards interativos para fortal
 <b>Rodrigo Marques</b> <br>
 <b>Analice Johnston</b>
 
-## 📄 Licença
-
-Este projeto está licenciado sob a [Nome da Licença]. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações sobre os termos de licenciamento.
-
----
-
-Aproveite o projeto e fique à vontade para personalizar este README de acordo com as necessidades do seu repositório. Divirta-se codificando! 🎉😄
-
